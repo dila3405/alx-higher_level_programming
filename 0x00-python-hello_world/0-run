@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print("python3")
+#!/usr/bin/bash
+print("python3 $PYCODE")
